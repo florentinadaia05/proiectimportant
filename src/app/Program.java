@@ -11,6 +11,8 @@ public class Program {
 		System.out.println("Bine ati venit in aplicatie");
 		System.out.println("Aplicatia face tot ce doresti");
 		
+		System.out.println("Am adaugat inca o linie");
+		
 		System.out.println("****GOODBYE WORLD****");
 	}
 
